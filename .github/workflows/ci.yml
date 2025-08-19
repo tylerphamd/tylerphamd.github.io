@@ -7,14 +7,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Build the site in the jekyll/builder container
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3 # latest stable Ruby
+          bundler-cache: true
+
+      - name: Install Jekyll
         run: |
-          export JEKYLL_VERSION=4.3.2
-          docker run \
-            -v ${{ github.workspace }}:/srv/jekyll \
-            -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-            -e PAGES_REPO_NWO=${{ github.repository }} \
-            jekyll/builder:$JEKYLL_VERSION /bin/bash -c "\
-              chmod 777 /srv/jekyll && \
-              jekyll build --future \
-            "
+          gem install jekyll -v "4.3.2"
+          jekyll build --future --destination _site
