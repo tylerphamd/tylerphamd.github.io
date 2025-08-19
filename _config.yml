@@ -69,7 +69,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: 0000-0002-9027-2020
+#  ORCID: 0000-0002-9027-2020
 #  google-scholar: Duy (Tyler) Pham 
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
@@ -122,17 +122,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#FFB6C1"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#FFB6C1"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+hover-col: "#FFE4C4"
+footer-col: "#A9A9A9"
+footer-text-col: "#404040"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#FFE4C4"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
