@@ -9,6 +9,10 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
+          bundler-cache: true  # caches installed gems for faster builds
+       # Step 3: Install Bundler (optional, ensures the right version)
+      - name: Install Bundler
+        run: gem install bundler
       - name: Install dependencies
         run: bundle install && bundle exec appraisal install
       - name: Setup Pages
