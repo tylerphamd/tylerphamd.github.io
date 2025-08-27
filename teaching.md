@@ -34,6 +34,7 @@ Flexibility and empathy are central to my teaching philosophy, as they create a 
 ### Student Feedback ###
 COM 240 (Michigan State University)
 “I really enjoyed Tyler Pham as my TA. He was easy going on us students and understanding of any situation. He helped clarify all assignments and exams.”
+
 “I liked how recitation was able to tie back to the lecture and re–iterate the main points.”
 
 COM 310 (Michigan State University)
@@ -41,10 +42,12 @@ COM 310 (Michigan State University)
 
 COM 225 (Michigan State University)
 “This team was absolutely amazing, but Tyler deserves some major props. A ton of students kept asking questions answered in the syllabus and he was extremely patient with all of them. He also brought some spectacular energy.”
+
 “I loved this class! This was one of the best classes that I had this semester. I enjoyed all of the material, the way the class was taught, and I also love learning all about interpersonal communication. I wish I could take this course all over again just to learn it some more.”
 
 COMM 120 (Lansing Community College)
 “I very much appreciated how communicative the professor was, he kept us informed and up to date with all of the announcements and expectations. Great instructor for this course and super grateful I took it with professor Pham.” 
+
 “Amazing person! He is very kind and gracious and he makes things very clear and not confusing.”
 
 COMM 130 (Lansing Community College)
