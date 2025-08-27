@@ -20,13 +20,10 @@ author: Tyler Pham
 ###############################################
 
 navbar-links:
-  Home: "tylerpham.github.io"
-  About Me: 
-    - About: "aboutme/"
-    - Research: "research/"
-  Teaching: "teach/"
-  Shortened resume: "Tyler Pham Updated resume 2023.pdf" 
-  CV: "Tyler Pham CV 2023.pdf"
+  Home: "tylerphamd.github.io"
+  Research: "research/"
+  Teaching: "teaching/"
+  CV: "tylerpham_cv_2025.pdf"
 
 ################
 # --- Logo --- #
