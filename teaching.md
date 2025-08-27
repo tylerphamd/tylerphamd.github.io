@@ -52,4 +52,3 @@ COMM 120 (Lansing Community College)
 
 COMM 130 (Lansing Community College)
 “Tyler is an awesome professor. He was very fair in grading, the expectations he set from day 1 were kept and fair, and he was very clear when instructing and providing me feedback on speeches, activities, and assignments. He was also just a fun professor that wanted to learn about each student and cared about us doing well. Grades were posted very quickly so I always knew where I was at. I would recommend him as a professor 10/10 times.”
-
