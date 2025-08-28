@@ -32,6 +32,12 @@ Flexibility and empathy are central to my teaching philosophy, as they create a 
 1. COM 110 - Communication as Critical Inquiry
 
 ### Student Feedback ###
+COM 100 (Michigan State University)
+
+"Tyler was so great! He understood the material and cared deeply about all his students. He was understanding that not everyone's schedule worked well with some of the deadlines and made sure every student had a chance to succeed."
+
+"The class was organized really well. The TA was absolutely amazing!!! Best TA ive ever had."
+
 COM 240 (Michigan State University)
 
 “I really enjoyed Tyler Pham as my TA. He was easy going on us students and understanding of any situation. He helped clarify all assignments and exams.”
@@ -57,3 +63,10 @@ COMM 120 (Lansing Community College)
 COMM 130 (Lansing Community College)
 
 “Tyler is an awesome professor. He was very fair in grading, the expectations he set from day 1 were kept and fair, and he was very clear when instructing and providing me feedback on speeches, activities, and assignments. He was also just a fun professor that wanted to learn about each student and cared about us doing well. Grades were posted very quickly so I always knew where I was at. I would recommend him as a professor 10/10 times.”
+
+"Professor Pham is an exceptional example of a great teacher. He clearly loves what he does, is passionate about the subject, and always gave us a perfect example of a confident and compelling public speaker. As a side note, Professor Pham was my best dressed professor by far. You may not consider this an incredibly important and otherwise deal–breaking factor of an effective professor, but I consider a well–dressed professor one that respects his profession and his students in every way he can, including the way he dressed for his class."
+
+COMM 200 (Lansing Community College)
+
+"Perfect role model for a professor and how they should structure their class. Empathetic, caring, patient, reasonable. I wish they could teach all my collegiate classes."
+
